@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Resolved TODO items from previous session
 - Cross-checked behaviour against spec
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
